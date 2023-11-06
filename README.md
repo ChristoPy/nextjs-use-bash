@@ -43,9 +43,9 @@ npm start
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Credits
-This is heavily ~copied~ insipired by `nextjs use bash`:
+This is heavily ~copied~ insipired by `nextjs use php`:
 
-* https://github.com/bufferhead-code/nextjs-use-bash
+* https://github.com/bufferhead-code/nextjs-use-php
 
 
 ## Disclaimer
