@@ -14,6 +14,8 @@ export default function Home() {
         </button>
       </form>
 
+      <p className="mt-6 text-muted-400">The nice stuff now 😎</p>
+
       <UseBashClientComponent />
     </main>
   )

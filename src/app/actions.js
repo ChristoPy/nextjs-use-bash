@@ -2,5 +2,5 @@
 
 export async function bashHelloWorld() {
   'use bash'
-  echo "hello from server"
+  ls -a
 }
